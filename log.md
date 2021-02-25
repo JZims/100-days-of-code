@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1. 2021 
+### Day 1: Feb 23, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp. Brushed up on Web Design (HTML and CSS) basics via The Odin Project.
+Once more, starting from scratch with a new curriculum and a clearer picture ahead.
 
-**Thoughts** Loooong way to go. I need to find a project to add onto each day. It's good to first have a handle on the basics.
+**Today's Progress**: Pushed through a lot of reviewed basics in HTML. Became more familiar with using CLI, Bash and Git. 
 
-**Link(s) to work**
-1. https://www.theodinproject.com/courses/foundations/lessons/html-and-css-basics
+
+### Day 2: Feb 24, 2021
+
+**Today's Progress**: Finished up Flatiron's HTML prework phase. Coded a clone of an album cover and a basic tourism ad. Did bonus work on both which helped me recall some tricks in CSS. This will be good prep for the modules to come. Back to CSS tomorrow.
 
