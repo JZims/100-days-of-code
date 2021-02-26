@@ -11,3 +11,10 @@ Once more, starting from scratch with a new curriculum and a clearer picture ahe
 
 **Today's Progress**: Finished up Flatiron's HTML prework phase. Coded a clone of an album cover and a basic tourism ad. Did bonus work on both which helped me recall some tricks in CSS. This will be good prep for the modules to come. Back to CSS tomorrow.
 
+
+### Day 3: Feb 25, 2021
+
+**Today's Progress**: CSS review day for Flatiron School prework. Lots of practice with selectors, syntax, values and other basics. Strolled through most of the material, but reinforcement is always nice. 
+
+
+### Day 3: Feb 25, 2021
