@@ -17,4 +17,8 @@ Once more, starting from scratch with a new curriculum and a clearer picture ahe
 **Today's Progress**: CSS review day for Flatiron School prework. Lots of practice with selectors, syntax, values and other basics. Strolled through most of the material, but reinforcement is always nice. 
 
 
-### Day 3: Feb 25, 2021
+### Days 4 and 5: Feb 27/28, 2021
+
+CSS: Labs focused on specificity and the hierarchy of selectors. Overriding declarations with broader statements.
+
+JS: Lots of basics to review. Data types, strict and loose operators, variable types, expressions using interpolation.
