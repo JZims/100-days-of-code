@@ -22,3 +22,7 @@ Once more, starting from scratch with a new curriculum and a clearer picture ahe
 CSS: Labs focused on specificity and the hierarchy of selectors. Overriding declarations with broader statements.
 
 JS: Lots of basics to review. Data types, strict and loose operators, variable types, expressions using interpolation.
+
+### Days 5 and 6: Mar 1/2, 2021
+
+JS - Basic functions. Passing arguments with Functions. Loops. Pretty much every basic JS feature outside of data structures, which is tomorrow's assignment.
