@@ -26,3 +26,6 @@ JS: Lots of basics to review. Data types, strict and loose operators, variable t
 ### Days 6 and 7: Mar 1/2, 2021
 
 JS - Basic functions. Passing arguments with Functions. Loops. Pretty much every basic JS feature outside of data structures, which is tomorrow's assignment.
+
+### Days 8, 9, and 10: Mar 3/4/5, 2021
+JS - Loops, Arrays and Objects. Hanging around these for a while to let them really sink in. Lots of practice problems and confused-looking REPLs.
