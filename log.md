@@ -29,3 +29,6 @@ JS - Basic functions. Passing arguments with Functions. Loops. Pretty much every
 
 ### Days 8, 9, and 10: Mar 3/4/5, 2021
 JS - Loops, Arrays and Objects. Hanging around these for a while to let them really sink in. Lots of practice problems and confused-looking REPLs.
+
+### Days 11, 12, 13 aaaand 14: Mar 6/7/8/9, 2021
+JS - Wrapped up arrays. All sorts of work with JavaScript in the DOM. Event listeners in JS. Manipulating CSS elements via the DOM. Made a (semi) clone of Pong. Began the skeleton of what will be my portfolio site.
