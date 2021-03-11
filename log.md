@@ -32,3 +32,6 @@ JS - Loops, Arrays and Objects. Hanging around these for a while to let them rea
 
 ### Days 11, 12, 13 aaaand 14: Mar 6/7/8/9, 2021
 JS - Wrapped up arrays. All sorts of work with JavaScript in the DOM. Event listeners in JS. Manipulating CSS elements via the DOM. Made a (semi) clone of Pong. Began the skeleton of what will be my portfolio site.
+
+### Days 15 and 16: Mar 10/11, 2021
+HTML/CSS:Days 15 and 16: Jumping back to HTML and CSS for my portfolio website. Made a pretty stylish navbar. Still deciding if I want to use a bootstrap or not. I kinda like the challenge of doing it all manually tbh.
