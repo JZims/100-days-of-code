@@ -35,3 +35,7 @@ JS - Wrapped up arrays. All sorts of work with JavaScript in the DOM. Event list
 
 ### Days 15 and 16: Mar 10/11, 2021
 HTML/CSS:Days 15 and 16: Jumping back to HTML and CSS for my portfolio website. Made a pretty stylish navbar. Still deciding if I want to use a bootstrap or not. I kinda like the challenge of doing it all manually tbh.
+
+
+### Days 17 and 18: Mar 12/13/14. 2021
+HTML/CSS: Portfolio Website coming along nicely. I spent way too long running some mouseover scripts for my project tabs. Stylized the contacts portion at the bottom pretty well and added a new font family to the entire page. It's mot much, but I'm proud of it.
