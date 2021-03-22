@@ -39,3 +39,10 @@ HTML/CSS:Days 15 and 16: Jumping back to HTML and CSS for my portfolio website. 
 
 ### Days 17 and 18: Mar 12/13/14. 2021
 HTML/CSS: Portfolio Website coming along nicely. I spent way too long running some mouseover scripts for my project tabs. Stylized the contacts portion at the bottom pretty well and added a new font family to the entire page. It's mot much, but I'm proud of it.
+
+### Days 19, 20 and 21: Mar 15/16/17, 2021
+JS: First 3 days of Bootcamp 
+@FlatironSchool! We hit the ground running, diving deep into JS datatypes, callback functions, arrow function and the request/response model. Full steam ahead with DOM manipulation and Event Listening to come.
+
+### Days 22, 23, 24 and 25: Mar 18-21, 2021
+JS: Biggest gap between check-ins yet, but I assure you I've taken zero days off. Tons of work with DOM and bleeding into backend tech with .fetch() and JSON basics. Cloned a few basic interactive pages and queried a virtual server to filter and return selected data. 
